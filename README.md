@@ -1,1 +1,2 @@
-This is my google homepage assignment form The Odin Project.
+Google Home PAGE!!! get some Hoban
+learning to use github better as well as creating a home page

@@ -1,0 +1,109 @@
+div {
+	font-size: 15px;
+	display: block;
+
+}
+body {
+	background-color: #fff;
+	color: #222;
+	font-family; arial, sans-serif;
+	margin: 8px;
+
+}
+#header {
+	width: 80%;
+	margin-top: 15px;
+	text-align: right;
+	padding-right: 20px;
+	position: absolute;
+
+}
+table {
+	background-color: #fff;
+	border-color: #fff;
+	position: absolute;
+	top: 20px;
+	right: 90px;
+
+}
+td {
+	background-color: #727272;
+}
+ul {
+	display: block;
+	list-style-type: none;
+	text-align: right;
+	position: static;
+	margin-top: -177px;
+
+	padding-right: 120px;
+}
+li {
+	display: list-item;
+	float: right;
+	margin-left: 20px;
+}
+.content {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+	width: 50%;
+	height: 50%;
+}
+input {
+	width: 484px;
+	height: 38px;
+	border: 1px solid #d9d9d9;
+}
+button {
+	display: inline-block;
+	height: 36px;
+	width: 300px;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	border: none;
+	background-color: #E9E9E9;
+	color: #9E9E9E;
+	text-align: center;
+}
+.buttons {
+	margin-left: auto;
+	margin-right: auto;
+}
+button:hover {
+	font-weight: bold;
+	color: #212121;
+	border: 1px solid #AEAEAE;
+}
+.buttons>button:nth-child(1) {
+	width: 134px;
+	margin-left: auto;
+	margin-right: 20px;
+}
+.buttons>button:nth-child(2) {
+	width: 134px;
+	margin-right: auto;
+	margin-left: 20px;
+}
+.footer {
+	position: absolute;
+	width: 100%;
+	height: 35px;
+	background-color: #E9E9E9;
+	border-top: 1px solid #AEAEAE;
+	bottom: 0;
+}
+#leftfoot {
+	display: inline-block;
+	float: left;
+	padding-top: 10px;
+	padding-left: 30px;
+}
+#rightfoot {
+	float: right;
+	display: inline-block;
+	padding-top: 10px;
+	padding-right: 30px;
+}
